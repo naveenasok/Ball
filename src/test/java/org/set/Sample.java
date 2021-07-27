@@ -6,6 +6,9 @@ public class Sample {
 		System.out.println("tree");
 		System.out.println("root");
 		System.out.println("plant");
+		System.out.println("seed");
+		System.out.println("fruits");
+		
 		
 	}
 	
